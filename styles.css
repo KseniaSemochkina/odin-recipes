@@ -1,0 +1,26 @@
+h1, 
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+div {
+    font-size: 20px;
+}
+
+.img {
+    width: 120px; 
+    height: auto
+}
+
+.dish {
+    padding: 16px;
+    box-sizing: border-box;
+}
